@@ -1,6 +1,6 @@
 import CoolProp.CoolProp as cp
 import numpy as np
-from .utils import iterable
+# from .utils import iterable # UNUSED
 
 
 class Properties(object):
